@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-echo "alias gti='git'" >> /.bash-profile
+echo "alias gti='git'" >> /.bashrc
